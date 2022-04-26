@@ -24,6 +24,8 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *SDK for Bilibili Open-live*
 
+#### Unity/C#
+
 * [Unity 官方SDK](https://open-live.bilibili.com/document/doc&tool/unitySDK.html) - 直播开放平台的Unity SDK，可以使Unity开发者能够快速接入直播开放平台.
 * [C# 官方SDK](https://open-live.bilibili.com/document/doc&tool/cSDK.html) - 直播开放平台的C# SDK，可以使C#开发者能够快速接入直播开放平台.
 
@@ -35,7 +37,16 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Demo for Bilibili Open-live*
 
+#### JS
+
 * [JavaScript 官方Demo](https://open-live.bilibili.com/document/doc&tool/jsDemo.html) - 为了帮助JS开发者快速便捷的接入提供的实例demo
+* [BiliBili_PlayWithMe_JS](https://gitee.com/XL8Z/BiliBili_PlayWithMe_JS) - 一位开发大佬的JS Demo
 
+#### Go
 
+* [Golang 官方Demo](https://open-live.bilibili.com/document/quickStart.html#测试案例) - 如题
+
+#### Python
+
+* [Python 官方Demo](https://open-live.bilibili.com/document/quickStart.html#测试案例) - 如题
 
